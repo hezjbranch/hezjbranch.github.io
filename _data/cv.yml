@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hezekiah Branch
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, Spanish, Brazilian Portuguese, Trinidad Creole
 
 - title: Education
   type: time_table
